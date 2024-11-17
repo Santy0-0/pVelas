@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mercado Virtual</title>
-    <link rel="stylesheet" href="css/style.css"> <!-- Enlace al archivo CSS externo -->
+    <link rel="stylesheet" href="css/style.css"> <!-- Enlace al archivo CSS externo 222222222222222222222222222222222222-->
 </head>
 <body>
     <div class="header">
